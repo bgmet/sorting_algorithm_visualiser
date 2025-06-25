@@ -1,0 +1,3 @@
+/Users/mete/OneDrive - Bahceşehir Üniversitesi/Projets/sorting_algorithms_visualiser/build/CMakeFiles/visualiser.dir
+/Users/mete/OneDrive - Bahceşehir Üniversitesi/Projets/sorting_algorithms_visualiser/build/CMakeFiles/edit_cache.dir
+/Users/mete/OneDrive - Bahceşehir Üniversitesi/Projets/sorting_algorithms_visualiser/build/CMakeFiles/rebuild_cache.dir
